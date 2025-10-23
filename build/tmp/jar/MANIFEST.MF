@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: Storyline Of Mineyarg
+Specification-Vendor: MrYArg1cH
+Specification-Version: 1
+Implementation-Title: storylineofmineyarg
+Implementation-Version: 1.0.0
+Implementation-Vendor: MrYArg1cH
+
