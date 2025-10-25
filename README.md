@@ -2,7 +2,7 @@
 
 # Storyline Of Mineyarg
 
-**Version:** 1.1.0
+**Version:** 1.1.1
 **Author:** MrYArg1cH
 **Minecraft:** 1.20.1
 **Forge:** 47.2.0+
@@ -180,6 +180,10 @@ If you experience issues:
 ---
 
 ## 🔄 Version History
+
+### v1.1.1
+
+* Fixed a bunch of bugs
 
 ### v1.1.0
 
