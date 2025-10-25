@@ -1,0 +1,45 @@
+modLoader="kotlinforforge"
+loaderVersion="[4,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/MrYArg1cH/storylineofmineyarg/issues"
+
+[[mods]]
+modId="storylineofmineyarg"
+version="${file.jarVersion}"
+displayName="Storyline Of Mineyarg"
+updateJSONURL="https://github.com/MrYArg1cH/storylineofmineyarg/releases"
+displayURL="https://github.com/MrYArg1cH/storylineofmineyarg"
+logoFile="logo.png"
+credits="Created by MrYArg1cH"
+authors="MrYArg1cH"
+description='''
+Мод на зомби-апокалипсис для Minecraft. Добавляет систему реального времени для апокалипсиса с эволюцией мобов, распространяющимся снегопадом и множеством настроек.
+
+Основные возможности:
+- Система команд для управления апокалипсисом
+- Эволюция агрессивных мобов с течением времени
+- Распространяющийся снегопад как опасная зона
+- Настраиваемые параметры апокалипсиса
+- Поддержка как клиента, так и сервера
+'''
+
+[[dependencies.storylineofmineyarg]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.0,48.0.0)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.storylineofmineyarg]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.storylineofmineyarg]]
+modId="kotlinforforge"
+mandatory=true
+versionRange="[4,)"
+ordering="NONE"
+side="BOTH"

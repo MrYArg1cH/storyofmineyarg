@@ -1,0 +1,38 @@
+# === Gradle ===
+.gradle/
+build/
+
+# === IntelliJ IDEA / JetBrains ===
+.idea/
+*.iml
+out/
+
+# === Operating System ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
+
+# === Minecraft Dev ===
+run/
+
+# === Text files ===
+*.txt
+
+# === Backup / temp ===
+*.tmp
+*.bak
+*.swp
+~$*
+
+# === Archive files ===
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# === Misc ===
+node_modules/
