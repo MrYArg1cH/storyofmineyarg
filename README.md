@@ -5,7 +5,7 @@
 **Version:** 1.1.1
 **Author:** MrYArg1cH
 **Minecraft:** 1.20.1
-**Forge:** 47.2.0+
+**Forge:** 47.4.0+
 
 ---
 
